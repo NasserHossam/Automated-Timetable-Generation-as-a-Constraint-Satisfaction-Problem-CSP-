@@ -1,0 +1,196 @@
+Section_ID,Course_Code,Course_Name,Activity_Type,Day,Start_Time,End_Time,Room,Instructor,Student_Count
+S11_L1,LRA101,Japanese Culture,Lecture,Sunday,10:45 AM,12:15 PM,R102,Dr. Sherine Elmotasem,20
+S1_CSC_L3,AID425,AI in Bio-Computing,Lecture and Lab,Sunday,10:45 AM,12:15 PM,R106,prof. Mohamed Ramy,20
+S1_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Sunday,10:45 AM,12:15 PM,R101,Dr. Amal Gomaa,20
+S1_L2,ACM215,Ordinary Differential Equations,Lecture and Lab,Sunday,10:45 AM,12:15 PM,R104,Dr. Ayman Arafa,20
+S2_L2,CSC211,Software Engineering,Lecture and Lab,Sunday,10:45 AM,12:15 PM,R108,Dr. Ahmed Arafa,20
+S3_CNC_L4,ACM323,Applied Numerical Methods,Lecture and Lab,Sunday,10:45 AM,12:15 PM,R107,Dr. Ali Kandil,20
+S4_AID_L3,AID311,Mathematics of Data Science,Lecture and Lab,Sunday,10:45 AM,12:15 PM,R109,Dr. Ahmed Anter,20
+S4_CNC_L4,MTH121,Mathematics (2) (Calculus + Linear Algebra),Lecture and Lab,Sunday,10:45 AM,12:15 PM,R110,Eng. Tarek Salah,20
+S5_L1,LRA401,Japanese Language (1),Lecture,Sunday,10:45 AM,12:15 PM,R103,Dr. Kenji Tanaka,20
+S7_L2,MTH212,Probability and Statistics,Lecture and Lab,Sunday,10:45 AM,12:15 PM,R105,Dr. Karim Hamed,20
+S12_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Sunday,12:30 PM,2:00 PM,R102,Dr. Amal Gomaa,20
+S1_BIF_L3,CSE423,Computer Graphics and Visualization,Lecture and Lab,Sunday,12:30 PM,2:00 PM,R106,Dr. Hataba,20
+S1_BIF_L4,AID322,Data Mining,Lecture and Lab,Sunday,12:30 PM,2:00 PM,R110,Dr. Mostafa Mohamed,20
+S1_CNC_L3,AID312,Intelligent Systems,Lecture and Lab,Sunday,12:30 PM,2:00 PM,R109,Dr. Ahmed Bayumi,20
+S1_L2,CNC111,Networks and Web Programming,Lecture and Lab,Sunday,12:30 PM,2:00 PM,R104,Dr. Nadia Fawzy,20
+S2_L1,LRA101,Japanese Culture,Lecture,Sunday,12:30 PM,2:00 PM,R101,Dr. Sherine Elmotasem,20
+S3_L2,CSC211,Software Engineering,Lecture and Lab,Sunday,12:30 PM,2:00 PM,R108,Dr. Ahmed Arafa,20
+S4_CNC_L4,PHY123,Physics 2,Lecture and Lab,Sunday,12:30 PM,2:00 PM,R107,Dr. Adel Fathy,20
+S6_L1,LRA401,Japanese Language (1),Lecture,Sunday,12:30 PM,2:00 PM,R103,Dr. Kenji Tanaka,20
+S8_L2,ACM215,Ordinary Differential Equations,Lecture and Lab,Sunday,12:30 PM,2:00 PM,R105,Dr. Ayman Arafa,20
+S12_L1,LRA101,Japanese Culture,Lecture,Sunday,2:15 PM,3:45 PM,R102,Dr. Sherine Elmotasem,20
+S1_BIF_L3,CSC114,Algorithms Analysis and Design,Lecture and Lab,Sunday,2:15 PM,3:45 PM,R106,Prof. Marghany Hassan,20
+S1_BIF_L4,AID422,Natural Language Processing,Lecture and Lab,Sunday,2:15 PM,3:45 PM,R110,Dr. Ahmed Bayumi,20
+S1_CNC_L3,CNC311,Computer Networks,Lecture and Lab,Sunday,2:15 PM,3:45 PM,R109,Prof. Samir Ahmed,20
+S1_L2,MTH212,Probability and Statistics,Lecture and Lab,Sunday,2:15 PM,3:45 PM,R104,Dr. Karim Hamed,20
+S2_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Sunday,2:15 PM,3:45 PM,R101,Dr. Amal Gomaa,20
+S4_CNC_L4,ACM323,Applied Numerical Methods,Lecture and Lab,Sunday,2:15 PM,3:45 PM,R107,Dr. Ali Kandil,20
+S4_L2,CSC211,Software Engineering,Lecture and Lab,Sunday,2:15 PM,3:45 PM,R108,Dr. Ahmed Arafa,20
+S7_L1,LRA401,Japanese Language (1),Lecture,Sunday,2:15 PM,3:45 PM,R103,Dr. Kenji Tanaka,20
+S8_L2,CNC111,Networks and Web Programming,Lecture and Lab,Sunday,2:15 PM,3:45 PM,R105,Dr. Nadia Fawzy,20
+S10_L1,ECE111,Digital Logic Design,Lecture and Lab,Sunday,9:00 AM,10:30 AM,R108,Prof. Ahmed Allam,20
+S11_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Sunday,9:00 AM,10:30 AM,R102,Dr. Amal Gomaa,20
+S12_L1,PHY113,Physics 1,Lecture and Lab,Sunday,9:00 AM,10:30 AM,R104,Dr. Adel Fathy,20
+S1_CSC_L3,CSE423,Computer Graphics and Visualization,Lecture and Lab,Sunday,9:00 AM,10:30 AM,R106,Dr. Hataba,20
+S1_L1,LRA101,Japanese Culture,Lecture,Sunday,9:00 AM,10:30 AM,R101,Dr. Sherine Elmotasem,20
+S2_CNC_L4,MTH121,Mathematics (2) (Calculus + Linear Algebra),Lecture and Lab,Sunday,9:00 AM,10:30 AM,R110,Dr. Ayman Arafa,20
+S3_CNC_L4,PHY123,Physics 2,Lecture and Lab,Sunday,9:00 AM,10:30 AM,R107,Eng. Laila Ibrahim,20
+S4_AID_L3,CNC311,Computer Networks,Lecture and Lab,Sunday,9:00 AM,10:30 AM,R109,Prof. Samir Ahmed,20
+S4_L1,LRA401,Japanese Language (1),Lecture,Sunday,9:00 AM,10:30 AM,R103,Dr. Kenji Tanaka,20
+S7_L2,CNC111,Networks and Web Programming,Lecture and Lab,Sunday,9:00 AM,10:30 AM,R105,Dr. Nadia Fawzy,20
+S1_AID_L4,AID427,New Trends in Data Science,Lecture and Lab,Monday,10:45 AM,12:15 PM,R106,Dr. Ahmed Arafa,20
+S1_CSC_L4,AID323,Parallel & Distributed Computing,Lecture and Lab,Monday,10:45 AM,12:15 PM,R107,Dr. Mohamed Akhames,20
+S1_L2,CSC211,Software Engineering,Lecture and Lab,Monday,10:45 AM,12:15 PM,R108,Eng. Menna Magdy,20
+S2_AID_L3,CNC314,Database Systems,Lecture and Lab,Monday,10:45 AM,12:15 PM,R110,Dr. Mohamed Issa,20
+S2_CNC_L3,CNC311,Computer Networks,Lecture and Lab,Monday,10:45 AM,12:15 PM,R109,Prof. Samir Ahmed,20
+S2_L2,LRA403,Japanese Language (3),Lecture,Monday,10:45 AM,12:15 PM,R102,Dr. Kenji Tanaka,20
+S3_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Monday,10:45 AM,12:15 PM,R101,Dr. Amal Gomaa,20
+S3_L2,ACM215,Ordinary Differential Equations,Lecture and Lab,Monday,10:45 AM,12:15 PM,R104,Dr. Ayman Arafa,20
+S9_L1,LRA401,Japanese Language (1),Lecture,Monday,10:45 AM,12:15 PM,R103,Dr. Yumi Yamamoto,20
+S9_L2,ACM215,Ordinary Differential Equations,Lecture and Lab,Monday,10:45 AM,12:15 PM,R105,Eng. Bassant Tolba,20
+S10_L1,LRA401,Japanese Language (1),Lecture,Monday,12:30 PM,2:00 PM,R103,Dr. Yumi Yamamoto,20
+S1_AID_L4,AID428,New Trends in AI,Lecture and Lab,Monday,12:30 PM,2:00 PM,R106,Dr. Ahmed Bayumi,20
+S1_CSC_L4,AID321,Machine Learning,Lecture and Lab,Monday,12:30 PM,2:00 PM,R107,Prof. Marghany Hassan,20
+S2_L2,CNC111,Networks and Web Programming,Lecture and Lab,Monday,12:30 PM,2:00 PM,R104,Dr. Nadia Fawzy,20
+S3_AID_L3,CNC314,Database Systems,Lecture and Lab,Monday,12:30 PM,2:00 PM,R110,Dr. Mohamed Issa,20
+S3_CNC_L3,AID312,Intelligent Systems,Lecture and Lab,Monday,12:30 PM,2:00 PM,R109,Eng. Salma Waleed,20
+S3_L2,LRA403,Japanese Language (3),Lecture,Monday,12:30 PM,2:00 PM,R102,Dr. Kenji Tanaka,20
+S4_L1,LRA101,Japanese Culture,Lecture,Monday,12:30 PM,2:00 PM,R101,Dr. Sherine Elmotasem,20
+S6_L2,CSC211,Software Engineering,Lecture and Lab,Monday,12:30 PM,2:00 PM,R108,Dr. Ahmed Arafa,20
+S9_L2,CNC111,Networks and Web Programming,Lecture and Lab,Monday,12:30 PM,2:00 PM,R105,Eng. Menna Hamdi,20
+S11_L1,LRA401,Japanese Language (1),Lecture,Monday,2:15 PM,3:45 PM,R103,Dr. Yumi Yamamoto,20
+S1_CSC_L4,AID411,BIG Data Analytics & Visualization,Lecture and Lab,Monday,2:15 PM,3:45 PM,R107,Prof. Marghany Hassan,20
+S2_AID_L4,ECE214,Digital Signal Processing,Lecture and Lab,Monday,2:15 PM,3:45 PM,R106,Dr. Ahmed Abdel-Malk,20
+S2_L2,MTH212,Probability and Statistics,Lecture and Lab,Monday,2:15 PM,3:45 PM,R104,Dr. Karim Hamed,20
+S3_CNC_L3,CNC311,Computer Networks,Lecture and Lab,Monday,2:15 PM,3:45 PM,R109,Prof. Samir Ahmed,20
+S4_AID_L3,CNC314,Database Systems,Lecture and Lab,Monday,2:15 PM,3:45 PM,R110,Dr. Mohamed Issa,20
+S4_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Monday,2:15 PM,3:45 PM,R101,Dr. Amal Gomaa,20
+S4_L2,LRA403,Japanese Language (3),Lecture,Monday,2:15 PM,3:45 PM,R102,Dr. Kenji Tanaka,20
+S7_L2,CSC211,Software Engineering,Lecture and Lab,Monday,2:15 PM,3:45 PM,R108,Dr. Ahmed Arafa,20
+S9_L2,MTH212,Probability and Statistics,Lecture and Lab,Monday,2:15 PM,3:45 PM,R105,Eng. Menna Mahmoud,20
+S1_AID_L3,CNC314,Database Systems,Lecture and Lab,Monday,9:00 AM,10:30 AM,R110,Dr. Mohamed Issa,20
+S1_AID_L4,ECE214,Digital Signal Processing,Lecture and Lab,Monday,9:00 AM,10:30 AM,R106,Dr. Ahmed Abdel-Malk,20
+S1_CSC_L4,ECE223,Signal and Systems,Lecture and Lab,Monday,9:00 AM,10:30 AM,R107,Dr. Reda Elbasiony,20
+S1_L2,LRA403,Japanese Language (3),Lecture,Monday,9:00 AM,10:30 AM,R102,Dr. Kenji Tanaka,20
+S2_CNC_L3,AID312,Intelligent Systems,Lecture and Lab,Monday,9:00 AM,10:30 AM,R109,Dr. Ahmed Bayumi,20
+S2_L2,ACM215,Ordinary Differential Equations,Lecture and Lab,Monday,9:00 AM,10:30 AM,R104,Dr. Ayman Arafa,20
+S3_L1,LRA101,Japanese Culture,Lecture,Monday,9:00 AM,10:30 AM,R101,Dr. Sherine Elmotasem,20
+S5_L2,CSC211,Software Engineering,Lecture and Lab,Monday,9:00 AM,10:30 AM,R108,Dr. Ahmed Arafa,20
+S8_L1,LRA401,Japanese Language (1),Lecture,Monday,9:00 AM,10:30 AM,R103,Dr. Yumi Yamamoto,20
+S8_L2,MTH212,Probability and Statistics,Lecture and Lab,Monday,9:00 AM,10:30 AM,R105,Dr. Karim Hamed,20
+S1_L1,PHY113,Physics 1,Lecture and Lab,Tuesday,10:45 AM,12:15 PM,R103,Dr. Adel Fathy,20
+S2_AID_L3,CSE423,Computer Graphics and Visualization,Lecture and Lab,Tuesday,10:45 AM,12:15 PM,R105,Dr. Hataba,20
+S2_AID_L4,AID428,New Trends in AI,Lecture and Lab,Tuesday,10:45 AM,12:15 PM,R106,Dr. Ahmed Bayumi,20
+S2_CNC_L3,CNC314,Database Systems,Lecture and Lab,Tuesday,10:45 AM,12:15 PM,R110,Dr. Mohamed Issa,20
+S2_L1,ECE111,Digital Logic Design,Lecture and Lab,Tuesday,10:45 AM,12:15 PM,R107,Prof. Ahmed Allam,20
+S3_L2,MTH212,Probability and Statistics,Lecture and Lab,Tuesday,10:45 AM,12:15 PM,R104,Dr. Karim Hamed,20
+S4_CNC_L3,CNC311,Computer Networks,Lecture and Lab,Tuesday,10:45 AM,12:15 PM,R109,Prof. Samir Ahmed,20
+S5_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Tuesday,10:45 AM,12:15 PM,R101,Dr. Amal Gomaa,20
+S6_L2,LRA403,Japanese Language (3),Lecture,Tuesday,10:45 AM,12:15 PM,R102,Dr. Kenji Tanaka,20
+S9_L2,CSC211,Software Engineering,Lecture and Lab,Tuesday,10:45 AM,12:15 PM,R108,Dr. Ahmed Arafa,20
+S1_AID_L3,AID312,Intelligent Systems,Lecture and Lab,Tuesday,12:30 PM,2:00 PM,R108,Dr. Ahmed Bayumi,20
+S1_CSC_L3,AID312,Intelligent Systems,Lecture and Lab,Tuesday,12:30 PM,2:00 PM,R109,Eng. Salma Waleed,20
+S1_L1,ECE111,Digital Logic Design,Lecture and Lab,Tuesday,12:30 PM,2:00 PM,R107,Prof. Ahmed Allam,20
+S2_L1,PHY113,Physics 1,Lecture and Lab,Tuesday,12:30 PM,2:00 PM,R103,Dr. Adel Fathy,20
+S3_AID_L3,CSE423,Computer Graphics and Visualization,Lecture and Lab,Tuesday,12:30 PM,2:00 PM,R105,Dr. Hataba,20
+S3_AID_L4,ECE214,Digital Signal Processing,Lecture and Lab,Tuesday,12:30 PM,2:00 PM,R106,Dr. Ahmed Abdel-Malk,20
+S3_CNC_L3,CNC314,Database Systems,Lecture and Lab,Tuesday,12:30 PM,2:00 PM,R110,Dr. Mohamed Issa,20
+S4_L2,ACM215,Ordinary Differential Equations,Lecture and Lab,Tuesday,12:30 PM,2:00 PM,R104,Dr. Ayman Arafa,20
+S6_L1,LRA101,Japanese Culture,Lecture,Tuesday,12:30 PM,2:00 PM,R101,Dr. Sherine Elmotasem,20
+S7_L2,LRA403,Japanese Language (3),Lecture,Tuesday,12:30 PM,2:00 PM,R102,Dr. Kenji Tanaka,20
+S1_AID_L3,CNC311,Computer Networks,Lecture and Lab,Tuesday,2:15 PM,3:45 PM,R108,Prof. Samir Ahmed,20
+S1_CSC_L3,CNC311,Computer Networks,Lecture and Lab,Tuesday,2:15 PM,3:45 PM,R109,Eng. Fatma Elsayed,20
+S3_AID_L4,AID427,New Trends in Data Science,Lecture and Lab,Tuesday,2:15 PM,3:45 PM,R106,Dr. Ahmed Arafa,20
+S3_L1,PHY113,Physics 1,Lecture and Lab,Tuesday,2:15 PM,3:45 PM,R103,Dr. Adel Fathy,20
+S4_AID_L3,CSE423,Computer Graphics and Visualization,Lecture and Lab,Tuesday,2:15 PM,3:45 PM,R105,Dr. Hataba,20
+S4_CNC_L3,CNC314,Database Systems,Lecture and Lab,Tuesday,2:15 PM,3:45 PM,R110,Dr. Mohamed Issa,20
+S4_L1,ECE111,Digital Logic Design,Lecture and Lab,Tuesday,2:15 PM,3:45 PM,R107,Prof. Ahmed Allam,20
+S4_L2,CNC111,Networks and Web Programming,Lecture and Lab,Tuesday,2:15 PM,3:45 PM,R104,Dr. Nadia Fawzy,20
+S6_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Tuesday,2:15 PM,3:45 PM,R101,Dr. Amal Gomaa,20
+S8_L2,LRA403,Japanese Language (3),Lecture,Tuesday,2:15 PM,3:45 PM,R102,Dr. Kenji Tanaka,20
+S12_L1,LRA401,Japanese Language (1),Lecture,Tuesday,9:00 AM,10:30 AM,R103,Dr. Yumi Yamamoto,20
+S1_AID_L3,CSE423,Computer Graphics and Visualization,Lecture and Lab,Tuesday,9:00 AM,10:30 AM,R105,Dr. Hataba,20
+S1_BIF_L4,AID324,Image Processing,Lecture and Lab,Tuesday,9:00 AM,10:30 AM,R107,Dr. Yassen,20
+S1_CNC_L3,CNC314,Database Systems,Lecture and Lab,Tuesday,9:00 AM,10:30 AM,R110,Dr. Mohamed Issa,20
+S2_AID_L4,AID427,New Trends in Data Science,Lecture and Lab,Tuesday,9:00 AM,10:30 AM,R106,Dr. Ahmed Arafa,20
+S3_L2,CNC111,Networks and Web Programming,Lecture and Lab,Tuesday,9:00 AM,10:30 AM,R104,Dr. Nadia Fawzy,20
+S4_CNC_L3,AID312,Intelligent Systems,Lecture and Lab,Tuesday,9:00 AM,10:30 AM,R109,Dr. Ahmed Bayumi,20
+S5_L1,LRA101,Japanese Culture,Lecture,Tuesday,9:00 AM,10:30 AM,R101,Dr. Sherine Elmotasem,20
+S5_L2,LRA403,Japanese Language (3),Lecture,Tuesday,9:00 AM,10:30 AM,R102,Dr. Kenji Tanaka,20
+S8_L2,CSC211,Software Engineering,Lecture and Lab,Tuesday,9:00 AM,10:30 AM,R108,Eng. Menna Magdy,20
+S1_BIF_L3,CNC311,Computer Networks,Lecture and Lab,Wednesday,10:45 AM,12:15 PM,R109,Prof. Samir Ahmed,20
+S1_BIF_L4,AID416,Reinforcement Learning,Lecture and Lab,Wednesday,10:45 AM,12:15 PM,R110,Dr. Reda Elbasiony,20
+S1_CNC_L3,CSC113,Compiler Design,Lecture and Lab,Wednesday,10:45 AM,12:15 PM,R105,Prof. Mostafa Soliman,20
+S1_CNC_L4,LRA106,Physical Education,Lecture,Wednesday,10:45 AM,12:15 PM,R102,Dr. Adel Fathy,20
+S2_AID_L3,AID312,Intelligent Systems,Lecture and Lab,Wednesday,10:45 AM,12:15 PM,R108,Dr. Ahmed Bayumi,20
+S4_AID_L4,ECE214,Digital Signal Processing,Lecture and Lab,Wednesday,10:45 AM,12:15 PM,R106,Dr. Ahmed Abdel-Malk,20
+S5_L1,PHY113,Physics 1,Lecture and Lab,Wednesday,10:45 AM,12:15 PM,R103,Eng. Laila Ibrahim,20
+S5_L2,ACM215,Ordinary Differential Equations,Lecture and Lab,Wednesday,10:45 AM,12:15 PM,R104,Dr. Ayman Arafa,20
+S6_L1,ECE111,Digital Logic Design,Lecture and Lab,Wednesday,10:45 AM,12:15 PM,R107,Prof. Ahmed Allam,20
+S7_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Wednesday,10:45 AM,12:15 PM,R101,Dr. Amal Gomaa,20
+S1_AID_L4,AID413,Data Security,Lecture and Lab,Wednesday,12:30 PM,2:00 PM,R109,Eng. Menna Mahmoud,20
+S1_BIF_L3,CNC314,Database Systems,Lecture and Lab,Wednesday,12:30 PM,2:00 PM,R110,Dr. Mohamed Issa,20
+S2_AID_L3,CNC311,Computer Networks,Lecture and Lab,Wednesday,12:30 PM,2:00 PM,R108,Prof. Samir Ahmed,20
+S2_CNC_L3,CSE423,Computer Graphics and Visualization,Lecture and Lab,Wednesday,12:30 PM,2:00 PM,R105,Dr. Hataba,20
+S2_CNC_L4,LRA106,Physical Education,Lecture,Wednesday,12:30 PM,2:00 PM,R102,Dr. Adel Fathy,20
+S4_AID_L4,AID427,New Trends in Data Science,Lecture and Lab,Wednesday,12:30 PM,2:00 PM,R106,Dr. Ahmed Arafa,20
+S5_L1,ECE111,Digital Logic Design,Lecture and Lab,Wednesday,12:30 PM,2:00 PM,R107,Prof. Ahmed Allam,20
+S5_L2,CNC111,Networks and Web Programming,Lecture and Lab,Wednesday,12:30 PM,2:00 PM,R104,Dr. Nadia Fawzy,20
+S6_L1,PHY113,Physics 1,Lecture and Lab,Wednesday,12:30 PM,2:00 PM,R103,Eng. Laila Ibrahim,20
+S8_L1,LRA101,Japanese Culture,Lecture,Wednesday,12:30 PM,2:00 PM,R101,Dr. Sherine Elmotasem,20
+S2_AID_L3,AID311,Mathematics of Data Science,Lecture and Lab,Wednesday,2:15 PM,3:45 PM,R108,Dr. Ahmed Anter,20
+S2_AID_L4,AID413,Data Security,Lecture and Lab,Wednesday,2:15 PM,3:45 PM,R109,Dr. Ahmed Arafa,20
+S2_CNC_L3,CSC113,Compiler Design,Lecture and Lab,Wednesday,2:15 PM,3:45 PM,R105,Prof. Mostafa Soliman,20
+S3_CNC_L4,LRA106,Physical Education,Lecture,Wednesday,2:15 PM,3:45 PM,R102,Dr. Adel Fathy,20
+S4_AID_L4,AID428,New Trends in AI,Lecture and Lab,Wednesday,2:15 PM,3:45 PM,R106,Dr. Ahmed Bayumi,20
+S5_L2,MTH212,Probability and Statistics,Lecture and Lab,Wednesday,2:15 PM,3:45 PM,R104,Dr. Karim Hamed,20
+S7_L1,PHY113,Physics 1,Lecture and Lab,Wednesday,2:15 PM,3:45 PM,R103,Eng. Laila Ibrahim,20
+S8_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Wednesday,2:15 PM,3:45 PM,R101,Dr. Amal Gomaa,20
+S9_L1,ECE111,Digital Logic Design,Lecture and Lab,Wednesday,2:15 PM,3:45 PM,R107,Prof. Ahmed Allam,20
+S1_AID_L3,AID311,Mathematics of Data Science,Lecture and Lab,Wednesday,9:00 AM,10:30 AM,R108,Dr. Ahmed Anter,20
+S1_BIF_L3,AID312,Intelligent Systems,Lecture and Lab,Wednesday,9:00 AM,10:30 AM,R109,Eng. Salma Waleed,20
+S1_CNC_L3,CSE423,Computer Graphics and Visualization,Lecture and Lab,Wednesday,9:00 AM,10:30 AM,R105,Dr. Hataba,20
+S1_CSC_L3,CNC314,Database Systems,Lecture and Lab,Wednesday,9:00 AM,10:30 AM,R110,Dr. Mohamed Issa,20
+S3_AID_L4,AID428,New Trends in AI,Lecture and Lab,Wednesday,9:00 AM,10:30 AM,R106,Dr. Ahmed Bayumi,20
+S3_L1,ECE111,Digital Logic Design,Lecture and Lab,Wednesday,9:00 AM,10:30 AM,R107,Prof. Ahmed Allam,20
+S4_L1,PHY113,Physics 1,Lecture and Lab,Wednesday,9:00 AM,10:30 AM,R103,Dr. Adel Fathy,20
+S4_L2,MTH212,Probability and Statistics,Lecture and Lab,Wednesday,9:00 AM,10:30 AM,R104,Dr. Karim Hamed,20
+S7_L1,LRA101,Japanese Culture,Lecture,Wednesday,9:00 AM,10:30 AM,R101,Dr. Sherine Elmotasem,20
+S9_L2,LRA403,Japanese Language (3),Lecture,Wednesday,9:00 AM,10:30 AM,R102,Dr. Kenji Tanaka,20
+S10_L1,PHY113,Physics 1,Lecture and Lab,Thursday,10:45 AM,12:15 PM,R103,Dr. Adel Fathy,20
+S1_CNC_L4,PHY123,Physics 2,Lecture and Lab,Thursday,10:45 AM,12:15 PM,R106,Eng. Laila Ibrahim,20
+S1_L1,LRA401,Japanese Language (1),Lecture,Thursday,10:45 AM,12:15 PM,R102,Dr. Kenji Tanaka,20
+S3_AID_L3,CNC311,Computer Networks,Lecture and Lab,Thursday,10:45 AM,12:15 PM,R108,Prof. Samir Ahmed,20
+S3_CNC_L3,CSC113,Compiler Design,Lecture and Lab,Thursday,10:45 AM,12:15 PM,R105,Prof. Mostafa Soliman,20
+S4_AID_L4,AID413,Data Security,Lecture and Lab,Thursday,10:45 AM,12:15 PM,R109,Dr. Ahmed Arafa,20
+S6_L2,CNC111,Networks and Web Programming,Lecture and Lab,Thursday,10:45 AM,12:15 PM,R104,Dr. Nadia Fawzy,20
+S8_L1,ECE111,Digital Logic Design,Lecture and Lab,Thursday,10:45 AM,12:15 PM,R107,Prof. Ahmed Allam,20
+S9_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Thursday,10:45 AM,12:15 PM,R101,Dr. Amal Gomaa,20
+S10_L1,LRA101,Japanese Culture,Lecture,Thursday,12:30 PM,2:00 PM,R101,Dr. Sherine Elmotasem,20
+S11_L1,ECE111,Digital Logic Design,Lecture and Lab,Thursday,12:30 PM,2:00 PM,R107,Prof. Ahmed Allam,20
+S1_CNC_L4,MTH121,Mathematics (2) (Calculus + Linear Algebra),Lecture and Lab,Thursday,12:30 PM,2:00 PM,R109,Dr. Ayman Arafa,20
+S2_CNC_L4,PHY123,Physics 2,Lecture and Lab,Thursday,12:30 PM,2:00 PM,R106,Eng. Laila Ibrahim,20
+S2_L1,LRA401,Japanese Language (1),Lecture,Thursday,12:30 PM,2:00 PM,R102,Dr. Kenji Tanaka,20
+S3_AID_L3,AID311,Mathematics of Data Science,Lecture and Lab,Thursday,12:30 PM,2:00 PM,R108,Dr. Ahmed Anter,20
+S4_CNC_L3,CSE423,Computer Graphics and Visualization,Lecture and Lab,Thursday,12:30 PM,2:00 PM,R105,Dr. Hataba,20
+S6_L2,MTH212,Probability and Statistics,Lecture and Lab,Thursday,12:30 PM,2:00 PM,R104,Dr. Karim Hamed,20
+S9_L1,PHY113,Physics 1,Lecture and Lab,Thursday,12:30 PM,2:00 PM,R103,Dr. Adel Fathy,20
+S10_L1,LRA103,Fine Arts Appreciation-Drawing and Paintings,Lecture,Thursday,2:15 PM,3:45 PM,R101,Dr. Amal Gomaa,20
+S11_L1,PHY113,Physics 1,Lecture and Lab,Thursday,2:15 PM,3:45 PM,R103,Dr. Adel Fathy,20
+S12_L1,ECE111,Digital Logic Design,Lecture and Lab,Thursday,2:15 PM,3:45 PM,R107,Prof. Ahmed Allam,20
+S2_CNC_L4,ACM323,Applied Numerical Methods,Lecture and Lab,Thursday,2:15 PM,3:45 PM,R106,Dr. Ali Kandil,20
+S3_CNC_L4,MTH121,Mathematics (2) (Calculus + Linear Algebra),Lecture and Lab,Thursday,2:15 PM,3:45 PM,R109,Eng. Tarek Salah,20
+S3_L1,LRA401,Japanese Language (1),Lecture,Thursday,2:15 PM,3:45 PM,R102,Dr. Kenji Tanaka,20
+S4_AID_L3,AID312,Intelligent Systems,Lecture and Lab,Thursday,2:15 PM,3:45 PM,R108,Dr. Ahmed Bayumi,20
+S4_CNC_L3,CSC113,Compiler Design,Lecture and Lab,Thursday,2:15 PM,3:45 PM,R105,Prof. Mostafa Soliman,20
+S7_L2,ACM215,Ordinary Differential Equations,Lecture and Lab,Thursday,2:15 PM,3:45 PM,R104,Dr. Ayman Arafa,20
+S1_CNC_L4,ACM323,Applied Numerical Methods,Lecture and Lab,Thursday,9:00 AM,10:30 AM,R106,Dr. Ali Kandil,20
+S3_AID_L3,AID312,Intelligent Systems,Lecture and Lab,Thursday,9:00 AM,10:30 AM,R108,Dr. Ahmed Bayumi,20
+S3_AID_L4,AID413,Data Security,Lecture and Lab,Thursday,9:00 AM,10:30 AM,R109,Dr. Ahmed Arafa,20
+S3_CNC_L3,CSE423,Computer Graphics and Visualization,Lecture and Lab,Thursday,9:00 AM,10:30 AM,R105,Dr. Hataba,20
+S4_CNC_L4,LRA106,Physical Education,Lecture,Thursday,9:00 AM,10:30 AM,R102,Dr. Adel Fathy,20
+S6_L2,ACM215,Ordinary Differential Equations,Lecture and Lab,Thursday,9:00 AM,10:30 AM,R104,Dr. Ayman Arafa,20
+S7_L1,ECE111,Digital Logic Design,Lecture and Lab,Thursday,9:00 AM,10:30 AM,R107,Prof. Ahmed Allam,20
+S8_L1,PHY113,Physics 1,Lecture and Lab,Thursday,9:00 AM,10:30 AM,R103,Eng. Laila Ibrahim,20
+S9_L1,LRA101,Japanese Culture,Lecture,Thursday,9:00 AM,10:30 AM,R101,Dr. Sherine Elmotasem,20
