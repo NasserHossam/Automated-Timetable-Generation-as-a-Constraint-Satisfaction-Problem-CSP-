@@ -30,7 +30,7 @@ File	Description
  * generator.py	-> Uses ReportLab to generate a professional-grade PDF file summarizing all schedules. Produces pages by Section, by Day, and by Instructor, with color-coded tables and summary statistics.
  * gui.py	-> Interactive Tkinter GUI for timetable exploration. Displays multi-tab pages (Summary, Sections, Master Grid, Instructors) using the generated CSV. Provides intuitive filtering and modern layout design.
  * generated_timetable.csv	-> Output schedule with assigned rooms, instructors, days, and times. Serves as input for both the PDF generator and GUI viewer.
- * Courses.csv, Instructor.csv, Rooms.csv, Sections.csv, TimeSlots.csv	Core data inputs for generating the timetable.
+ * Courses.csv, Instructor.csv, Rooms.csv, Sections.csv, TimeSlots.csv	-> Core data inputs for generating the timetable.
 # How It Works
 1- Prepare Input Data
 Place the following files in the project root (CSV format):
