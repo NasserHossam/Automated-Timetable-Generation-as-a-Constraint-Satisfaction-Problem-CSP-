@@ -41,26 +41,21 @@ Place the following files in the project root (CSV format):
   * TimeSlots.csv
 
 # Step 1: Load Data
-bash 
-python data_loader.py 
-Loads and validates all CSVs, printing reports about room capacity, instructor qualifications, and schedule feasibility.
+bash -> python data_loader.py 
+* Loads and validates all CSVs, printing reports about room capacity, instructor qualifications, and schedule feasibility.
 
 # Step 2: Generate Timetable (CSP Solver)
-  bash
-  python csp_solver.py
-Runs the CSP algorithm to produce generated_timetable.csv.
-Conflicts are automatically avoided based on defined constraints.
+bash -> python csp_solver.py
+* Runs the CSP algorithm to produce generated_timetable.csv.
+* Conflicts are automatically avoided based on defined constraints.
 
 # Step 3: Generate PDF Report
-
-  bash
-  python generator.py
-Reads the generated CSV to create a professional multi-page PDF (timetable_output.pdf) with summary statistics, visual tables, and color-coded activities.
+bash -> python generator.py
+* Reads the generated CSV to create a professional multi-page PDF (timetable_output.pdf) with summary statistics, visual tables, and color-coded activities.
 
 # Step 4: Launch the Interactive GUI
-  bash
-  python gui.py
-Opens a modern interactive viewer allowing navigation by summary, section, instructor, or master timetable grid.
+bash -> python gui.py
+* Opens a modern interactive viewer allowing navigation by summary, section, instructor, or master timetable grid.
 
 # Technical Highlights
 * Constraint Solver:
@@ -70,48 +65,34 @@ Opens a modern interactive viewer allowing navigation by summary, section, instr
     * Rooms match capacity and type requirements.
 
 # PDF Generator:
-Uses ReportLab to produce structured and styled tables, with sections organized by day and instructor summaries.
+* Uses ReportLab to produce structured and styled tables, with sections organized by day and instructor summaries.
 
 # GUI Viewer:
-Built using Tkinter and pandas; enables multi-tab navigation and automatic summary statistics generation.
+* Built using Tkinter and pandas; enables multi-tab navigation and automatic summary statistics generation.
 
 # Requirements
-Before running the system, install dependencies:
-
-  bash
-  pip install pandas reportlab
-(Optionally, for GUI support, ensure Tkinter is installed — usually included with Python distributions.)
-
-Example Workflow
+* Before running the system, install dependencies:
+bash -> pip install pandas reportlab
+* (Optionally, for GUI support, ensure Tkinter is installed — usually included with Python distributions.)
+# Example Workflow
 bash
-# Load and verify data
-python data_loader.py
+* Load and verify data
+  * python data_loader.py
 
-# Generate a conflict-free timetable
-python csp_solver.py
+* Generate a conflict-free timetable
+  * python csp_solver.py
 
-# Create a PDF report
-python generator.py
+* Create a PDF report
+  * python generator.py
 
-# View interactively
-python gui.py
-Output files:
-
-generated_timetable.csv
-
-timetable_output.pdf
-
-License
-Open-source project for educational and institutional use.
-All components can be extended or integrated with external scheduling systems or databases.
-
-Contributors
-Developed as a modular academic scheduling solution integrating:
-
-ReportLab for document generation
-
-Tkinter for interactive visualization
-
-Pandas for data processing
-
-Algorithmic CSPs for intelligent timetable creation
+* View interactively
+  * python gui.py
+# Output files:
+ * generated_timetable.csv
+ * timetable_output.pdf
+# Contributors
+* Developed as a modular academic scheduling solution integrating:
+* ReportLab for document generation
+* Tkinter for interactive visualization
+* Pandas for data processing
+* Algorithmic CSPs for intelligent timetable creation
