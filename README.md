@@ -31,66 +31,55 @@ File	Description
  * gui.py	-> Interactive Tkinter GUI for timetable exploration. Displays multi-tab pages (Summary, Sections, Master Grid, Instructors) using the generated CSV. Provides intuitive filtering and modern layout design.
  * generated_timetable.csv	-> Output schedule with assigned rooms, instructors, days, and times. Serves as input for both the PDF generator and GUI viewer.
  * Courses.csv, Instructor.csv, Rooms.csv, Sections.csv, TimeSlots.csv	Core data inputs for generating the timetable.
-How It Works
-Prepare Input Data
+# How It Works
+1- Prepare Input Data
 Place the following files in the project root (CSV format):
+  * Courses.csv
+  * Instructor.csv
+  * Rooms.csv
+  * Sections.csv
+  * TimeSlots.csv
 
-Courses.csv
-
-Instructor.csv
-
-Rooms.csv
-
-Sections.csv
-
-TimeSlots.csv
-
-Step 1: Load Data
-
-bash
-python data_loader.py
+# Step 1: Load Data
+  bash
+  python data_loader.py
 Loads and validates all CSVs, printing reports about room capacity, instructor qualifications, and schedule feasibility.
 
-Step 2: Generate Timetable (CSP Solver)
-
-bash
-python csp_solver.py
+# Step 2: Generate Timetable (CSP Solver)
+  bash
+  python csp_solver.py
 Runs the CSP algorithm to produce generated_timetable.csv.
 Conflicts are automatically avoided based on defined constraints.
 
-Step 3: Generate PDF Report
+# Step 3: Generate PDF Report
 
-bash
-python generator.py
+  bash
+  python generator.py
 Reads the generated CSV to create a professional multi-page PDF (timetable_output.pdf) with summary statistics, visual tables, and color-coded activities.
 
-Step 4: Launch the Interactive GUI
-
-bash
-python gui.py
+# Step 4: Launch the Interactive GUI
+  bash
+  python gui.py
 Opens a modern interactive viewer allowing navigation by summary, section, instructor, or master timetable grid.
 
-Technical Highlights
-Constraint Solver:
-Uses backtracking with MRV (Minimum Remaining Values) heuristic for efficient search. Constraints ensure that:
+# Technical Highlights
+* Constraint Solver:
+  Uses backtracking with MRV (Minimum Remaining Values) heuristic for efficient search. Constraints ensure that:
+    * No two sections overlap in the same timeslot.
+    * Instructors are only assigned to qualified courses.
+    * Rooms match capacity and type requirements.
 
-No two sections overlap in the same timeslot.
-
-Instructors are only assigned to qualified courses.
-
-Rooms match capacity and type requirements.
-
-PDF Generator:
+# PDF Generator:
 Uses ReportLab to produce structured and styled tables, with sections organized by day and instructor summaries.
 
-GUI Viewer:
+# GUI Viewer:
 Built using Tkinter and pandas; enables multi-tab navigation and automatic summary statistics generation.
 
-Requirements
+# Requirements
 Before running the system, install dependencies:
 
-bash
-pip install pandas reportlab
+  bash
+  pip install pandas reportlab
 (Optionally, for GUI support, ensure Tkinter is installed — usually included with Python distributions.)
 
 Example Workflow
