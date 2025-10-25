@@ -41,9 +41,9 @@ Place the following files in the project root (CSV format):
   * TimeSlots.csv
 
 # Step 1: Load Data
-  bash
-  python data_loader.py
-  Loads and validates all CSVs, printing reports about room capacity, instructor qualifications, and schedule feasibility.
+bash 
+python data_loader.py 
+Loads and validates all CSVs, printing reports about room capacity, instructor qualifications, and schedule feasibility.
 
 # Step 2: Generate Timetable (CSP Solver)
   bash
